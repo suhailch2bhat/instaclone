@@ -1,0 +1,34 @@
+ input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+body{
+    background-color:white;
+}
+button {
+    background: white;
+    border: 1px solid #1877f2;
+    color:black;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+.form-wrapper{
+    background-color: #1877f2;
+    margin: 15px;
+    border: solid grey;
+    width: 60%;
+    height: 40vh;
+    margin-left: 5%;
+    padding: 12%;
+}
