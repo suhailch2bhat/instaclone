@@ -22,10 +22,10 @@ const Postview=()=> {
     <div className="Postview">
       
       <div className="Posttop">
-       <span> <div className="imagetop"><h1>@insta cloneee</h1></div>
+       <span> <div className="imagetop"><h1>@insta clone</h1></div>
        <Link to="/login">
        <img  style={{float:"right", width:'100px',height:'100px',broder:"solid black 2px"}}  src="https://thumbs.dreamstime.com/b/speed-fast-camera-icon-logo-design-element-can-be-used-as-as-complement-to-95291428.jpg" alt="my camera"/>
-      <h1>click me</h1>
+      click me
     </Link>
     </span>
     </div>
